@@ -1,2 +1,1 @@
-# aiTrain
-
+# columbia-aiops-model-training
