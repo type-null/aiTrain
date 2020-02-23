@@ -31,4 +31,11 @@ Forked from https://github.com/pharnoux/columbia-aiops-training
 ![modelLocal](https://i.imgur.com/yDaIct4.png)
 
 ## 4. SageMaker training
-- Created a Notebook on SageMaker and ran the code form `Step #3` over there. Modify code to be able to load the data and the dictionary from S3.
+- Created a Notebook on SageMaker. Modified code to be able to load the data and the dictionary from S3.
+![embeddingFromS3](https://i.imgur.com/B3CZPZ8.png)
+
+- Ran the code form `Step #3` over there successfully.
+![notebookResult](https://i.imgur.com/0Ox4ufD.png)
+
+- Output result directly to S3.
+![resultInS3](https://i.imgur.com/xvpMqMf.png)
